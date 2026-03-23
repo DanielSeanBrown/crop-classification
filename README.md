@@ -4,8 +4,8 @@
 This project aimed to create a classification model for suggesting the ideal crop to grow given a set of soil characteristics. This was achieved through a variety of supervised learning models and further work was done to test how models fair with distorted data. Coefficient analysis also revealed which soil characteristics affect which crops and how. For full documentation, please refer to the report file.
 
 ### Aims and Goals
-1 - Construct a high-performance model for crop classification.
-2 - To interpret models for understanding which properties of soil are most crucial for differing crops.
+- Construct a high-performance model for crop classification.
+- To interpret models for understanding which properties of soil are most crucial for differing crops.
 
 
 ### Methods
